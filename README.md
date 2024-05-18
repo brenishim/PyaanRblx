@@ -1,0 +1,4 @@
+- ⚡ Coder in Visual Studio Code.
+- 🚀 Working on projects but some projects are released!
+- 🌴 Look out for updates on projects and new releases!
+- 🥂 Everything made is for educational purposes.
